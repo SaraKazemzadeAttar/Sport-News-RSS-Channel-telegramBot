@@ -1,5 +1,5 @@
 # Sport-News-RSS-Channel-telegramBot
-This Python bot fetches the latest post from an RSS feed every 10 minutes and sends it to a Telegram channel. It is good for notifying subscribers the news.
+This Python bot fetches the latest post from an RSS feed every 10 minutes and sends it to a Telegram channel,keeping subscribers informed about the latest news or content.
 
 Features
 
