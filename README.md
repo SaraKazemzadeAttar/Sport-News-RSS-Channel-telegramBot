@@ -27,7 +27,7 @@ This Python bot fetches the latest post from an RSS feed every 10 minutes and se
 ## Usage
 Run the script using:
 ```sh
-python bot.py
+python main.py
 ```
 
 The bot will check for new posts every 10 minutes and send them to the Telegram channel if they haven't been sent before.
